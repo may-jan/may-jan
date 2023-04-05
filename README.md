@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=may-jan&layout=compact&langs_count=4"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=may-jan&layout=compact&langs_count=5"/>
 
 ### 🛠Once I've Used🛠
 <br>
